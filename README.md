@@ -41,9 +41,19 @@
 ### Q4:  What products are most often sold together?
 ### -->
 
-#### The month of December is best for sale. Almost 5 million $ has been earned.
+#### The products most sold together are
+##### ('iPhone', 'Lightning Charging Cable') 1005
+##### ('Google Phone', 'USB-C Charging Cable') 987
+##### ('iPhone', 'Wired Headphones') 447
+##### ('Google Phone', 'Wired Headphones') 414
+##### ('Vareebadd Phone', 'USB-C Charging Cable') 361
+##### ('iPhone', 'Apple Airpods Headphones') 360
+##### ('Google Phone', 'Bose SoundSport Headphones') 220
+##### ('USB-C Charging Cable', 'Wired Headphones') 160
+##### ('Vareebadd Phone', 'Wired Headphones') 143
+##### ('Lightning Charging Cable', 'Wired Headphones') 92
 
-![](Images/1.png)
+![](Images/5.png)
 
 
 
